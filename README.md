@@ -1,4 +1,5 @@
 # Hey 👋, I'm Abdullah Selim!
+### Self-taught Software Developer
 <a href='https://www.linkedin.com/in/ِabdullah-selim-721693175'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://x.com/Abdullah_Selim_'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
 <a href='mailto:3bdullahselim@gmail.com'><img alt="email" src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail" height='18px'/></a>
@@ -51,6 +52,4 @@ I also have skills in SEO, digital marketing, and growth strategies to boost onl
 <br>
 
 ### 🛠️ My Projects
-<a href="#" target="_blank"> <img alt="wordpress-project" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" height="68" align="left"> </a>
-<a href="#" target="_blank"> <img alt="shopify-project" src="https://cdn.worldvectorlogo.com/logos/shopify.svg" height="68" align="left"> </a>
-<a href="#" target="_blank"> <img alt="portfolio" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="68" align="left"> </a>
+![Programming logos](https://raw.githubusercontent.com/jamezmca/learn-to-code/main/assets/logos.png)
