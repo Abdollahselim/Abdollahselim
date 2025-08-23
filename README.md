@@ -1,13 +1,17 @@
 # Hey 👋, I'm Abdullah Selim!
 ### Self-taught Software Developer
-<a href='https://www.linkedin.com/in/ِabdullah-selim-721693175'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://x.com/Abdullah_Selim_'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/twitter.svg" height='18px'/></a>
-<a href='mailto:3bdullahselim@gmail.com'><img alt="email" src="https://img.shields.io/badge/Email-Contact-blue?style=flat&logo=gmail" height='18px'/></a>
-
+<div align="center">
+<a href='https://www.linkedin.com/in/ِabdullah-selim-721693175'><img align='left' alt="linkedin" src="https://github.com/user-attachments/assets/331da41d-1d12-4578-8250-94d85a863cf4" height='20px'/></a>
+<a href='https://x.com/Abdullah_Selim_'><img align='left' alt="twitter" src="https://github.com/user-attachments/assets/b5874241-a686-4673-a244-fa0612a1cb1f" height='20px'/></a>
+<a href='mailto:3bdullahselim@gmail.com'><img align='left' alt="email" src="https://github.com/user-attachments/assets/36508815-bbf2-4758-9196-2863c13b02c9" height='20px'/></a>
+<a href='https://github.com/Abdollahselim'><img align='left' alt="email" src="https://github.com/user-attachments/assets/3e55e869-ced7-464a-a665-ee5cafc0c4b4" height='20px'/></a>
+</div>
+<br/>
+<br/>
 I am a **Web Developer** specialized in building and optimizing **E-Commerce Websites** using **WordPress, Shopify, Salla, and Zid**.  
 I create fast, secure, and user-friendly stores tailored to client needs.  
 I also have skills in SEO, digital marketing, and growth strategies to boost online sales.  
-<br/>
+
 <br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
